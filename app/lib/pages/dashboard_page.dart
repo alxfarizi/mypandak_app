@@ -30,6 +30,15 @@ class DashboardPage extends StatelessWidget {
             ),
             const SizedBox(width: 12),
             const Text(
+              'MY PANDAK',
+              style: TextStyle(
+                fontSize: 18,
+                fontWeight: FontWeight.bold,
+                color: Colors.black,
+              ),
+            ),
+            const SizedBox(width: 12),
+            const Text(
               'Hai, Agus !',
               style: TextStyle(
                 fontSize: 18,
