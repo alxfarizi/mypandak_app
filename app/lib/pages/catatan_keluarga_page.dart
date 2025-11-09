@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'tambah_data_catatan_keluarga_page.dart';
+import 'tambah_catatan_keluarga_page.dart';
 
 class CatatanKeluargaPage extends StatelessWidget {
   const CatatanKeluargaPage({super.key});
